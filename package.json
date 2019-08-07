@@ -115,7 +115,7 @@
     "request": "~2.81.0",
     "search-index-adder": "~0.3.9",
     "search-index-searcher": "~0.2.10",
-    "semver": "~5.4.1",
+    "semver": "~6.3.0",
     "serve-favicon": "~2.4.3",
     "simplemde": "~1.11.2",
     "socket.io": "~2.0.2",
