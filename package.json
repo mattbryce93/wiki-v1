@@ -143,7 +143,7 @@
     "eslint-plugin-import": "~2.7.0",
     "eslint-plugin-node": "~5.1.0",
     "eslint-plugin-promise": "~3.5.0",
-    "eslint-plugin-standard": "~3.0.1",
+    "eslint-plugin-standard": "~4.0.1",
     "fuse-box": "~2.2.2",
     "i18next-xhr-backend": "~1.4.2",
     "jest": "~20.0.4",
